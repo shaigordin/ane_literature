@@ -1,0 +1,88 @@
+---
+title: "ביבליוגרפיה ומקורות"
+---
+
+קריאת חובה מסומנת ב-\*. פריטים שנוספו השנה מסומנים ב-🆕.
+
+## 1. בראשית (א׳–יא׳): סיפורי הבריאה ומיתוסים מסופוטמיים
+
+- \*סרטונים: <https://youtu.be/gw3sMTV-nYw>; <https://youtu.be/3ybSJIS-CG4>
+- \*מבואות אינטראקטיביים למזרח הקדום: <https://arcg.is/yz1Ke>; <https://arcg.is/158WG4>
+- י׳ קליין, ״המקרא והספרות המסופוטמית: מסורות בראשית, ספרות החכמה וספרות הקינות״, בתוך: צ׳ טלשיר (עורכת), *ספרות המקרא: מבואות ומחקרים*, כרך שני. ירושלים, תשע״א, 523–579.
+- \*Michalowski, P. 2024. “The Sound of Creation: The Revolutionary Poetics of Enuma Elish.” <http://dx.doi.org/10.5040/9781350297425.ch-12>
+- George, A. R. 2016. “Cosmogony in Ancient Mesopotamia.” In M. Gindhart and T. Pommerening (eds.), *Anfang & Ende*. Darmstadt, 7–25.
+- Rochberg, F. 2020. “Mesopotamian Cosmology.” In D. C. Snell (ed.), *A Companion to the Ancient Near East*. Wiley, 305–320.
+
+## כיצד לקרוא ספרות מסופוטמית במאה ה-21
+
+- 🆕 \*Fadhil, A. A., and E. Jiménez. 2025. “Literary Texts from the Sippar Library V: A Hymn in Praise of Babylon and the Babylonians.” *Iraq* 86. <https://doi.org/10.1017/irq.2024.23>
+- 🆕 Gutherz, G., et al. 2023. “Translating Akkadian to English with Neural Machine Translation.” *PNAS Nexus* 2(5): pgad096.
+- ספריית ה-[eBL](https://www.ebl.lmu.de/)
+
+## 2. סיפורי האדם הראשון וייצוגי האלים
+
+- \*Wiggermann, F. A. M. 2011. “Agriculture as Civilization: Sages, Farmers, and Barbarians.” In K. Radner and E. Robson (eds.), *The Oxford Handbook of Cuneiform Culture*. Oxford, 663–689.
+- Brisch, N. 2020. “Ancient Mesopotamian Religion.” In D. C. Snell (ed.), *A Companion to the Ancient Near East*. Wiley, 321–337.
+
+## 3. ספרות החכמה במסופוטמיה וישראל
+
+- \*י׳ הופמן, ״ספרות החכמה: משלי, איוב וקהלת״, בתוך: צ׳ טלשיר (עורכת), *ספרות המקרא: מבואות ומחקרים*, כרך ראשון. ירושלים, תשע״א, 325–354.
+- י׳ כהן, ״יצירת החכמה האכדית ׳שמע את העצה׳: בין חכמה מסורתית לחדשנות מרדנית״. *שנתון לחקר המקרא והמזרח הקדום* כג (תשע״ד): 203–222.
+- Adams, S. L., and M. J. Goff (eds.). 2020. *The Wiley Blackwell Companion to Wisdom Literature*. Hoboken, NJ, esp. 13–29, 195–212.
+- 🆕 Kynes, W. 2019. *An Obituary for “Wisdom Literature”: The Birth, Death, and Intertextual Reintegration of a Biblical Corpus*. Oxford: Oxford University Press (המבוא).
+
+## 4. לדמותם של גיבורים וחוטאים
+
+- \*Liverani, M. 2005. “The Story of Joash.” In Z. Bahrani and M. Van De Mieroop (eds.), *Myth and Politics in Ancient Near Eastern Historiography*. New York, 147–159.
+- \*אגדת נרם-סין (קטע מתורגם מאכדית, זמין במודל)
+- Evans, C. D. 1983. “Naram-Sin and Jeroboam: The Archetypal Unheilsherrscher in Mesopotamian and Biblical Historiography.” In W. W. Hallo et al. (eds.), *Scripture in Context II*. Winona Lake, 97–125.
+- Westenholz, J. G. 2010. “Historical Events and the Process of Their Transformation in Akkadian Heroic Traditions.” In D. Konstan and K. A. Raaflaub (eds.), *Epic and History*. Oxford, 26–50.
+- 🆕 Helle, S. 2021. *Gilgamesh: A New Translation of the Ancient Epic*. New Haven: Yale University Press.
+
+## 5. צדק וחוק במזרח הקדום ובמקרא
+
+- מ׳ מלול, *חברה, משפט ומנהג בישראל בתקופת המקרא ובתרבויות המזרח הקדום*. בר-אילן, תשס״ו, 9–27.
+- Westbrook, R. 2003. “The Character of Ancient Near Eastern Law.” In R. Westbrook (ed.), *A History of Ancient Near Eastern Law*. HdO 72. Leiden, 1–90.
+
+## 6. מדע העתיד: אותות, מאגיה ונבואה
+
+- \*Koch, U. S. 2011. “Sheep and Sky: Systems of Divinatory Interpretation.” In K. Radner and E. Robson (eds.), *The Oxford Handbook of Cuneiform Culture*. Oxford, 447–469.
+- Stökl, J. 2012. “How Unique Was Israelite Prophecy?” In A. T. Levenson (ed.), *The Wiley-Blackwell History of Jews and Judaism*. Oxford, 53–69.
+- ד׳ גלעד, ״ספרות הנבואה״, בתוך: צ׳ טלשיר (עורכת), *ספרות המקרא: מבואות ומחקרים*, כרך ראשון. ירושלים, תשע״א, 307–324.
+- 🆕 George, A. R., and J. Taniguchi. 2024. “Old Babylonian Lunar-Eclipse Omen Tablets in the British Museum.” *Journal of Cuneiform Studies* 76. <https://doi.org/10.1086/730483>
+
+## 7. סיכום: קנוניזציה? ספרות וסופרים בישראל ויהודה
+
+- י׳ כהן, ״כתיבה, קריאה ואוריינות במזרח הקדום״. *קתדרה* 152 (2014): 167–182.
+- ש׳ אחיטוב, ״הכתובות העבריות והמקרא״, בתוך: צ׳ טלשיר (עורכת), *ספרות המקרא: מבואות ומחקרים*, כרך שני. ירושלים, תשע״א, 471–494.
+- 🆕 Helle, S. 2023. *Enheduana: The Complete Poems of the World’s First Author*. New Haven: Yale University Press.
+
+## סוגי ספרות עתיקה נוספים שאפשר לחקור בקורס
+
+**איכה וספרות הקינה**
+
+- נ׳ סמט, ״קינות הערים השומריות ומגילת איכה: לקראת מחקר תאולוגי משווה״. *שנתון לחקר המקרא והמזרח הקדום* כא (תשע״ב): 95–110.
+- Gabbay, U. 2013. “‘We Are Going to the House in Prayer’: Theology, Cultic Topography, and Cosmology in the Emesal Prayers of Ancient Mesopotamia.” In D. Ragavan (ed.), *Heaven on Earth*. OIS 9. Chicago, 223–243.
+
+**שיר השירים ושירי אהבה פולחניים**
+
+- מ׳ פוקס וי׳ קליין (עורכים), ״מבוא לשיר-השירים״. *עולם התנ״ך: מגילות* (תשנ״ו): 12–24.
+- Da Riva, R. 2020. “Jealousy in Akkadian Love Literature: Zarpanītu in the Divine Love Lyrics.” In S.-W. Hsu and J. Llop Raduà (eds.), *The Expression of Emotions in Ancient Egypt and Mesopotamia*. Brill, 306–334.
+- Nissinen, M. 2001. “Akkadian Rituals and Poetry of Divine Love.” In R. M. Whiting (ed.), *Mythology and Mythologies*. Melammu Symposia 2. Helsinki, 93–136.
+
+**ספרות אוגרית וחקר המקרא**
+
+- א׳ גרינשטיין, ״הספרות האוגריתית״, בתוך: צ׳ טלשיר (עורכת), *ספרות המקרא: מבואות ומחקרים*, כרך שני. ירושלים, תשע״א, 495–522.
+
+## מקורות מקוונים
+
+- גילגמש (אנדרו ג׳ורג׳): <https://youtu.be/Rd7MrGy_tEg>
+- ספריית ה-[eBL](https://www.ebl.lmu.de/)
+
+## ספרי בסיס
+
+- צ׳ טלשיר (עורכת), *ספרות המקרא: מבואות ומחקרים (בין מקרא למשנה)*. ירושלים, תשע״א.
+- א׳ גבאי ות׳ וייס, *המיתולוגיה הבבלית*. תל אביב: מפה, 2003.
+- Haubold, J., S. Helle, E. Jiménez, and S. Wisnom (eds.). 2024. *Enuma Elish: The Babylonian Epic of Creation*. London: Bloomsbury Academic.
+- Foster, B. R. 2005. *Before the Muses: An Anthology of Akkadian Literature*. 3rd ed. Bethesda, MD.
+- Sasson, J. (ed.). 1995. *Civilizations of the Ancient Near East*. New York.
