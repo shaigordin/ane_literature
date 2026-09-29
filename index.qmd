@@ -1,12 +1,11 @@
 ---
 title: "מבוא לספרות המזרח הקדום תשפ״ז"
 subtitle: "An Introduction to Ancient Near Eastern Literature"
-image: naram-sin-stele.jpg
+image: naram-sin-banner.jpg
 fig-cap: "^[אסטלת הניצחון של נרם-סין מלך אכד (המאה ה-23 לפנה״ס), מוזיאון הלובר, Sb 4. התמונה מתוך מצגת הקורס [״לדמותם של גיבורים וחוטאים״](https://docs.google.com/presentation/d/1avRNnkrKrx4bs0N1kNTDI77oIhhoRTK2dhDt-sNhtgg/edit?usp=sharing).]"
 about:
   template: marquee
   image-shape: rounded
-  image-width: 11em
 ---
 
 ::: callout-warning
