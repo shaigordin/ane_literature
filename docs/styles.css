@@ -23,7 +23,7 @@ body {
   font-family: 'Alef', sans-serif;
   font-size: 18px;
   /*font-family: 'Press Start 2P', cursive;
-  background-image: url('/images/home_page.png');
+  background-image: url('images/home_page.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -78,7 +78,7 @@ footer {
 }
 
 /*.homepage body {
-  background-image: url('/images/home_page.png') !important;
+  background-image: url('images/home_page.png') !important;
   background-size: cover !important;
   background-repeat: no-repeat !important;
   background-position: center !important;
